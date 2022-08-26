@@ -2,8 +2,6 @@
 #include <stdint.h>
 #include <math.h>
 
-//testing commit
-
 #include "inc/hw_memmap.h"
 #include "inc/hw_types.h"
 #include "inc/hw_can.h"
