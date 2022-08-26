@@ -1,0 +1,1 @@
+"./MasterMain.obj" "./startup_ccs.obj" "./utils/uartstdio.obj" "../MasterMain_ccs.cmd" -l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib" -llibc.a 
